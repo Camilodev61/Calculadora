@@ -23,8 +23,8 @@ Una vez abierto el archivo `index.html` en el navegador, podrás usar la calcula
 ### Ejemplos de Operaciones
 
 1. **Suma**:
-    - Entrada: `5 + 3`
-    - Salida: `8`
+    - Entrada: `5 + 6`
+    - Salida: `11`
 
 2. **Resta**:
     - Entrada: `10 - 4`
